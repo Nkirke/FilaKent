@@ -47,7 +47,7 @@ st.markdown(
 )
 
 # INDSÆT DIT FORMSPREE-LINK HERUNDER:
-FORMSPREE_URL = "https://formspree.io/f/DIN_KODE_HER"
+FORMSPREE_URL = "https://formspree.io/f/maeonjez"
 
 MATERIALER = ["PLA", "PETG", "ABS", "ASA", "TPU", "Andet"]
 FARVER = [
@@ -59,6 +59,7 @@ FARVER = [
     "Grøn",
     "Gul",
     "Orange",
+    "Lyserød",
     "Gennemsigtig",
     "Andet",
 ]
